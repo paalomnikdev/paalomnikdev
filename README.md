@@ -1,7 +1,7 @@
 <h1 align="center">Warm regards 👋, I am Ivan</h1>
 <h3 align="center">Senior DevOps/SRE/Backend Developer</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=paalomnikdev" alt="paalomnikdev" /></a> </p>
+
 
 - 📄 Know about my experiences [https://ivan.chornyi.rocks](https://ivan.chornyi.rocks)
 
@@ -16,4 +16,5 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/ichornyi"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="ichornyi" /></a></p><br><br>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=paalomnikdev&show_icons=true&locale=en&layout=compact" alt="paalomnikdev" /></p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=paalomnikdev" alt="paalomnikdev" /></a> </p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=paalomnikdev&show_icons=true&locale=en&layout=compact" alt="paalomnikdev" /></p>
