@@ -2,15 +2,28 @@
 <h3 align="center">DevOps/SRE/Backend Developer</h3>
 
 <h3 align="left">Certifications:</h3>
-<a target="_blank" href="https://google.accredible.com/2d78e3ea-c984-4360-84c7-eefca15d2f25">
-    <img src="https://templates.images.credential.net/16590187933301617801540872729153.png" title="Associate Cloud Engineer" alt="Associate Cloud Engineer">
-</a>
-<a target="_blank" href="https://google.accredible.com/8a54caef-4d70-477b-8899-ddaf4bde152d">
-    <img src="https://templates.images.credential.net/16590181582433100721069374350922.png" title="Professional Cloud Architect" alt="Professional Cloud Architect">
-</a>
-<a target="_blank" href="https://www.credly.com/badges/efac18e6-96d2-4006-8692-3ea66b2e37c0/public_url">
-    <img src="https://images.credly.com/size/680x680/images/85b9cfc4-257a-4742-878c-4f7ab4a2631b/image.png" title="Terraform Associate" alt="Terraform Associate">
-</a>
+<ul style="text-align: center;padding: 0;">
+    <li style="background-color: transparent;width: 25%;display: inline-block;vertical-align: top;">
+        <a target="_blank" href="https://google.accredible.com/2d78e3ea-c984-4360-84c7-eefca15d2f25">
+            <img src="https://templates.images.credential.net/16590187933301617801540872729153.png" title="Associate Cloud Engineer" alt="Associate Cloud Engineer">
+        </a>
+    </li>
+    <li style="background-color: transparent;width: 25%;display: inline-block;vertical-align: top;">
+        <a target="_blank" href="https://google.accredible.com/8a54caef-4d70-477b-8899-ddaf4bde152d">
+            <img src="https://templates.images.credential.net/16590181582433100721069374350922.png" title="Professional Cloud Architect" alt="Professional Cloud Architect">
+        </a>
+    </li>
+    <li style="background-color: transparent;width: 25%;display: inline-block;vertical-align: top;">
+        <a target="_blank" href="https://www.credly.com/badges/efac18e6-96d2-4006-8692-3ea66b2e37c0/public_url">
+            <img src="https://images.credly.com/size/680x680/images/85b9cfc4-257a-4742-878c-4f7ab4a2631b/image.png" title="Terraform Associate" alt="Terraform Associate">
+        </a>
+    </li>
+</ul>
+
+
+
+
+
 
 
 <h3 align="left">Connect with me:</h3>
