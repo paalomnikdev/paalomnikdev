@@ -7,19 +7,29 @@
 </p>
 
 <h3 align="left">Tools:</h3>
-[![My Tools](https://skillicons.dev/icons?i=ansible,docker,git,gitlab,github,kubernetes,postman,selenium)](https://ivan.chornyi.rocks)
+<a href="https://ivan.chornyi.rocks">
+    <img src="https://skillicons.dev/icons?i=ansible,docker,git,gitlab,github,kubernetes,postman,selenium" alt="My Tools">
+</a>
 
 <h3 align="left">Clouds:</h3>
-[![My Tools](https://skillicons.dev/icons?i=aws,gcp)](https://ivan.chornyi.rocks)
+<a href="https://ivan.chornyi.rocks">
+    <img src="https://skillicons.dev/icons?i=aws,gcp" alt="my clouds">
+</a>
 
 <h3 align="left">Programming Languages:</h3>
-[![My Languages](https://skillicons.dev/icons?i=bash,js,nodejs,php,py)](https://ivan.chornyi.rocks)
+<a href="https://ivan.chornyi.rocks">
+    <img src="https://skillicons.dev/icons?i=bash,js,nodejs,php,py" alt="My Languages">
+</a>
 
 <h3 align="left">OS:</h3>
-[![My OS](https://skillicons.dev/icons?i=linux)](https://ivan.chornyi.rocks)
+<a href="https://ivan.chornyi.rocks">
+    <img src="https://skillicons.dev/icons?i=linux" alt="OS">
+</a>
 
 <h3 align="left">Databases:</h3>
-[![My Databases](https://skillicons.dev/icons?i=mongodb,mysql,redis,sqlite)](https://ivan.chornyi.rocks)
+<a href="https://ivan.chornyi.rocks">
+    <img src="https://skillicons.dev/icons?i=mongodb,mysql,redis,sqlite" alt="Databases">
+</a>
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/ichornyi"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="ichornyi" /></a></p><br><br>
